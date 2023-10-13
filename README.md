@@ -21,7 +21,7 @@ Nepali to English Calendar Conversion + English Calendar View
 Add package to pubspec.yaml.
 
 ```dart
-nepali_english_calendar: ^1.0.0
+nepali_english_calendar: ^1.0.1
 ```
 ## Usages
 
