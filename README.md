@@ -1,10 +1,9 @@
 # Nepali Calendar 
-# English Calendar [Upcoming]
 
 Nepali Calendar with the custom styles and colors. Extension of [nepali_date_picker](https://pub.dev/packages/nepali_date_picker)
 
 ### Upcoming Features
-Nepali to English Calendar Conversion  
+Nepali to English Calendar Conversion + English Calendar View
 
 ![Loading Demo](demo.gif)
 
@@ -15,7 +14,7 @@ Nepali to English Calendar Conversion
 * Supports from 1970 B.S. to 2100 B.S.
 * English Calendar Conversion [Upcoming]
 
-![Loading Demo](ss/ss1.png) ![Loading Demo](ss/ss2.png)
+<img src="ss/ss1.png" width="400px"> <img src="ss/ss2.png" width="400px">
 
 ## Installation
 
