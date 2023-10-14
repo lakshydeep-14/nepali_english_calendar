@@ -1,6 +1,6 @@
 # Nepali Calendar 
 
-Nepali Calendar with the custom styles and colors. Extension of [nepali_date_picker](https://pub.dev/packages/nepali_date_picker)
+Nepali Calendar with both English and Devanagari language and with custom styles and colors. Extension of [nepali_date_picker](https://pub.dev/packages/nepali_date_picker)
 
 ### Upcoming Features
 Nepali to English Calendar Conversion + English Calendar View
@@ -21,7 +21,7 @@ Nepali to English Calendar Conversion + English Calendar View
 Add package to pubspec.yaml.
 
 ```dart
-nepali_english_calendar: ^1.0.1
+nepali_english_calendar: ^1.0.1+1
 ```
 ## Usages
 
